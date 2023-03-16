@@ -1,0 +1,21 @@
+
+gunicorn
+itsdangerous
+scikit-learn
+MarkupSafe
+Werkzeug
+numpy
+scipy
+
+matplotlib
+pandas
+
+keras
+ h5py
+Tensorflow
+streamlit
+
+nltk
+textblob
+regex
+
